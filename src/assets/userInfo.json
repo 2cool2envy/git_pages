@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0",
+        "context": "Programming Languages",
+        "list": [
+            "Trainee",
+            "Associate Software Engineer",
+            "Software Engineer (Siemens -> March 2021 to present)"
+        ]
+    },
+    {
+        "id": "1",
+        "context": "Programming Languages",
+        "list": [
+            "Full Stack - JavaScript",
+            "Technical Lead",
+            "Frontend Developer"
+        ]
+    },
+    {
+        "id": "2",
+        "context": "Programming Languages",
+        "list": [
+            "Python",
+            "Ionic (Cordova + Angular)",
+            "ReactJS + React Native",
+            "NodeJS",
+            "Angular 2"
+        ]
+    },
+    {
+        "id": "3",
+        "context": "Programming Languages",
+        "list": [
+            "Sports",
+            "Travel",
+            "Fitness",
+            "News",
+            "Books"
+        ]
+    }
+]
